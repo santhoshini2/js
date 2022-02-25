@@ -1,0 +1,12 @@
+var myvar = 1000;
+var lightson = true;
+var myfavoritecolor ='orange';
+console.log(myvar);
+console.log(lightson);
+console.log(myfavoritecolor);
+var x;
+console.log(x);
+console.log(typeof myvar);
+console.log(typeof lightson);
+console.log(typeof myfavoritecolor);
+console .log(typeof x);
